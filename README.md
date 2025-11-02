@@ -1,10 +1,5 @@
 # Azure-Fake-Docs
 
-Claro, Pedro! Vamos criar um `README.md` profissional e direto ao ponto para o seu projeto. Aqui está um modelo que você pode adaptar facilmente:
-
----
-
-## 📄 README.md — Modelo para seu projeto
 
 ```markdown
 # Upload de Arquivo DIO - Azure - Fake Docs
@@ -59,9 +54,7 @@ Este projeto é um aplicativo web simples desenvolvido com [Streamlit](https://s
 ## ✍️ Autor
 
 Pedro — Desenvolvedor em formação pela DIO 🚀  
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/) ou veja mais projetos no [GitHub](https://github.com/seu-usuario)
 
-```
 
 ---
 
