@@ -22,8 +22,7 @@ Este projeto é um aplicativo web simples desenvolvido com [Streamlit](https://s
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone (https://github.com/pedroivocunha/Azure-Fake-Docs.git)
    ```
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
